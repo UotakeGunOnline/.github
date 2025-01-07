@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uotakegunonline&label=Profile%20views&color=0e75b6&style=flat" alt="uotakegunonline" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uotakegunonline" alt="uotakegunonline" /></a> </p>
+<p align="left"> <a href="https://github.com/UotakeGunOnline"><img src="https://github-profile-trophy.vercel.app/?username=UotakeGunOnline" alt="UotakeGunOnline" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/uotakeserver" target="blank"><img src="https://img.shields.io/twitter/follow/uotakeserver?logo=twitter&style=for-the-badge" alt="uotakeserver" /></a> </p>
 
